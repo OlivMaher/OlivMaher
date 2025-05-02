@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">A 3rd year Computer Science Student at Concordia University</h3>
+<h3 align="center">A 4th year Computer Science Student at Concordia University</h3>
 
 - 📫 How to reach me **oliviermaher0@gmail.com**
 
